@@ -1,0 +1,33 @@
+Student (NetlinkID): zhangpaul1023
+
+Style Grade: 16/20
+
+
+Select Qualitative Feedback:
+===========================
+
+Formatting 
+Coe formatted well
+
+
+
+Naming
+Improvise variable naming
+
+
+
+Commenting
+add more comments
+
+
+
+Functional Decomposition
+good modularity
+
+
+
+General Qualitative Feedback from Teaching Team:
+===============================================
+good submission overall
+...
+...
